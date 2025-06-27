@@ -19,9 +19,9 @@ limitations under the License.
 #include <unordered_map>
 #include <vector>
 
-#include "xla/tsl/platform/logging.h"
-#include "xla/tsl/platform/test.h"
-#include "xla/tsl/platform/test_benchmark.h"
+#include "tsl/platform/logging.h"
+#include "tsl/platform/test.h"
+#include "tsl/platform/test_benchmark.h"
 
 namespace tsl {
 

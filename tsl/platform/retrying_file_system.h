@@ -21,10 +21,10 @@ limitations under the License.
 #include <string>
 #include <vector>
 
-#include "xla/tsl/platform/env.h"
-#include "xla/tsl/platform/errors.h"
-#include "xla/tsl/platform/file_system.h"
-#include "xla/tsl/platform/status.h"
+#include "tsl/platform/env.h"
+#include "tsl/platform/errors.h"
+#include "tsl/platform/file_system.h"
+#include "tsl/platform/status.h"
 #include "tsl/platform/random.h"
 #include "tsl/platform/retrying_utils.h"
 

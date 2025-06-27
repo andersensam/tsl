@@ -18,8 +18,8 @@ limitations under the License.
 
 #include "absl/strings/str_cat.h"
 #include "absl/strings/str_format.h"
-#include "xla/tsl/platform/test.h"
-#include "xla/tsl/platform/test_benchmark.h"
+#include "tsl/platform/test.h"
+#include "tsl/platform/test_benchmark.h"
 #include "tsl/platform/platform.h"
 
 namespace tsl {

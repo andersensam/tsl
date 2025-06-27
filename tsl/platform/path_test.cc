@@ -17,8 +17,8 @@ limitations under the License.
 
 #include <string>
 
-#include "xla/tsl/platform/env.h"
-#include "xla/tsl/platform/test.h"
+#include "tsl/platform/env.h"
+#include "tsl/platform/test.h"
 #include "tsl/platform/stringpiece.h"
 
 namespace tsl {

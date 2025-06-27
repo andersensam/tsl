@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_THREADPOOL_H_
 #define TENSORFLOW_TSL_PLATFORM_THREADPOOL_H_
 
-#include "xla/tsl/platform/threadpool.h"
+#include "tsl/platform/threadpool.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_THREADPOOL_H_

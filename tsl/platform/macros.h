@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_MACROS_H_
 #define TENSORFLOW_TSL_PLATFORM_MACROS_H_
 
-#include "xla/tsl/platform/macros.h"
+#include "tsl/platform/macros.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_MACROS_H_

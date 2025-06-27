@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_TEST_BENCHMARK_H_
 #define TENSORFLOW_TSL_PLATFORM_TEST_BENCHMARK_H_
 
-#include "xla/tsl/platform/test_benchmark.h"
+#include "tsl/platform/test_benchmark.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_TEST_BENCHMARK_H_

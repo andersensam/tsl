@@ -27,8 +27,8 @@ limitations under the License.
 #include "absl/strings/str_join.h"
 #include "absl/strings/str_split.h"
 #include "absl/strings/strip.h"
-#include "xla/tsl/platform/macros.h"
-#include "xla/tsl/platform/types.h"
+#include "tsl/platform/macros.h"
+#include "tsl/platform/types.h"
 #include "tsl/platform/stringpiece.h"
 
 // TODO: b/323943471 - This macro should eventually be provided by Abseil.

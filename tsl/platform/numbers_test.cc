@@ -21,8 +21,8 @@ limitations under the License.
 #include <string>
 
 #include "absl/strings/str_cat.h"
-#include "xla/tsl/platform/test.h"
-#include "xla/tsl/platform/types.h"
+#include "tsl/platform/test.h"
+#include "tsl/platform/types.h"
 
 namespace tsl {
 namespace strings {

@@ -25,8 +25,8 @@ limitations under the License.
 #include "absl/base/attributes.h"
 #include "absl/base/macros.h"
 #include "absl/strings/str_cat.h"
-#include "xla/tsl/platform/macros.h"
-#include "xla/tsl/platform/types.h"
+#include "tsl/platform/macros.h"
+#include "tsl/platform/types.h"
 #include "tsl/platform/numbers.h"
 #include "tsl/platform/stringpiece.h"
 

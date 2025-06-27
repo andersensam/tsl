@@ -20,7 +20,7 @@ limitations under the License.
 #include <climits>
 #include <cstdint>
 
-#include "xla/tsl/platform/types.h"
+#include "tsl/platform/types.h"
 #include "tsl/platform/platform.h"
 #include "tsl/platform/stringpiece.h"
 

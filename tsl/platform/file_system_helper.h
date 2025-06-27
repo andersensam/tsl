@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_FILE_SYSTEM_HELPER_H_
 #define TENSORFLOW_TSL_PLATFORM_FILE_SYSTEM_HELPER_H_
 
-#include "xla/tsl/platform/file_system_helper.h"
+#include "tsl/platform/file_system_helper.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_FILE_SYSTEM_HELPER_H_

@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_ENV_TIME_H_
 #define TENSORFLOW_TSL_PLATFORM_ENV_TIME_H_
 
-#include "xla/tsl/platform/env_time.h"
+#include "tsl/platform/env_time.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_ENV_TIME_H_

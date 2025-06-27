@@ -18,8 +18,8 @@ limitations under the License.
 #include <string>
 
 #include "absl/base/call_once.h"
-#include "xla/tsl/platform/logging.h"
-#include "xla/tsl/platform/types.h"
+#include "tsl/platform/logging.h"
+#include "tsl/platform/types.h"
 #include "tsl/platform/platform.h"
 #if defined(PLATFORM_IS_X86)
 #include <mutex>  // NOLINT

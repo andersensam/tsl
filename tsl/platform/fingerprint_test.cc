@@ -18,8 +18,8 @@ limitations under the License.
 #include <array>
 #include <unordered_set>
 
-#include "xla/tsl/platform/test.h"
-#include "xla/tsl/platform/types.h"
+#include "tsl/platform/test.h"
+#include "tsl/platform/types.h"
 
 namespace tsl {
 namespace {

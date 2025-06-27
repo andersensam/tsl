@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_LOGGING_H_
 #define TENSORFLOW_TSL_PLATFORM_LOGGING_H_
 
-#include "xla/tsl/platform/logging.h"
+#include "tsl/platform/logging.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_LOGGING_H_

@@ -21,8 +21,8 @@ limitations under the License.
 
 #include "absl/strings/str_cat.h"
 #include "absl/strings/string_view.h"
-#include "xla/tsl/platform/test.h"
-#include "xla/tsl/platform/types.h"
+#include "tsl/platform/test.h"
+#include "tsl/platform/types.h"
 #include "tsl/platform/bfloat16.h"
 #include "tsl/platform/stringprintf.h"
 

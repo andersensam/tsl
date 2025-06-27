@@ -17,7 +17,7 @@ limitations under the License.
 
 #include <unordered_map>
 
-#include "xla/tsl/platform/test.h"
+#include "tsl/platform/test.h"
 
 namespace tsl {
 

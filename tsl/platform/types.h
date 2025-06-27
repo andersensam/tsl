@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_TYPES_H_
 #define TENSORFLOW_TSL_PLATFORM_TYPES_H_
 
-#include "xla/tsl/platform/types.h"
+#include "tsl/platform/types.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_TYPES_H_

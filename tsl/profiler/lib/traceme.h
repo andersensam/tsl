@@ -24,14 +24,14 @@ limitations under the License.
 #include <utility>
 
 #include "absl/strings/string_view.h"
-#include "xla/tsl/platform/logging.h"
-#include "xla/tsl/platform/macros.h"
-#include "xla/tsl/profiler/utils/no_init.h"
+#include "tsl/platform/logging.h"
+#include "tsl/platform/macros.h"
+#include "tsl/profiler/utils/no_init.h"
 #include "tsl/profiler/lib/traceme_encode.h"  // IWYU pragma: export
 
 #if !defined(IS_MOBILE_PLATFORM)
-#include "xla/tsl/profiler/backends/cpu/traceme_recorder.h"
-#include "xla/tsl/profiler/utils/time_utils.h"
+#include "tsl/profiler/backends/cpu/traceme_recorder.h"
+#include "tsl/profiler/utils/time_utils.h"
 #endif
 
 namespace tsl {

@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_TEST_H_
 #define TENSORFLOW_TSL_PLATFORM_TEST_H_
 
-#include "xla/tsl/platform/test.h"
+#include "tsl/platform/test.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_TEST_H_

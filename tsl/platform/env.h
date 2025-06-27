@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_ENV_H_
 #define TENSORFLOW_TSL_PLATFORM_ENV_H_
 
-#include "xla/tsl/platform/env.h"
+#include "tsl/platform/env.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_ENV_H_

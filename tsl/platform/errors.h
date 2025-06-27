@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_ERRORS_H_
 #define TENSORFLOW_TSL_PLATFORM_ERRORS_H_
 
-#include "xla/tsl/platform/errors.h"
+#include "tsl/platform/errors.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_ERRORS_H_

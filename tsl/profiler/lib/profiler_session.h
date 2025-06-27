@@ -21,8 +21,8 @@ limitations under the License.
 
 #include "absl/status/status.h"
 #include "absl/synchronization/mutex.h"
-#include "xla/tsl/platform/status.h"
-#include "xla/tsl/platform/types.h"
+#include "tsl/platform/status.h"
+#include "tsl/platform/types.h"
 #include "tsl/platform/platform.h"
 #include "tsl/platform/thread_annotations.h"
 #include "tsl/profiler/protobuf/profiler_options.pb.h"

@@ -18,7 +18,7 @@ limitations under the License.
 #include <memory>
 #include <string>
 
-#include "xla/tsl/platform/test.h"
+#include "tsl/platform/test.h"
 #include "tsl/platform/ctstring_internal.h"
 
 static const char kLongString[] =

@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_FILE_SYSTEM_H_
 #define TENSORFLOW_TSL_PLATFORM_FILE_SYSTEM_H_
 
-#include "xla/tsl/platform/file_system.h"
+#include "tsl/platform/file_system.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_FILE_SYSTEM_H_

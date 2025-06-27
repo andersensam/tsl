@@ -16,6 +16,6 @@ limitations under the License.
 #ifndef TENSORFLOW_TSL_PLATFORM_FILE_STATISTICS_H_
 #define TENSORFLOW_TSL_PLATFORM_FILE_STATISTICS_H_
 
-#include "xla/tsl/platform/file_statistics.h"
+#include "tsl/platform/file_statistics.h"
 
 #endif  // TENSORFLOW_TSL_PLATFORM_FILE_STATISTICS_H_
